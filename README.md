@@ -23,3 +23,11 @@
 
 * Start Backend Service
   * php -S localhost:4200
+
+* Communicate between Front and Backend
+  * Access-Control-Allow-Origin
+  * jQuery $.get request
+  * checkout response
+  * read data
+  * JSON.parse(data);
+  * update DOM
