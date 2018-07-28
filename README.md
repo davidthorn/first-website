@@ -20,3 +20,6 @@
 * Document Ready
   * Test Jquery is working
   * Replace welcome text index.html when document is ready 
+
+* Start Backend Service
+  * php -S localhost:4200
