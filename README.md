@@ -6,8 +6,13 @@
   * Add style sheet
   * Add jQuery "https://code.jquery.com/jquery-3.3.1.min.js"
   * Add app.js file
-  * Listen to document.ready
+ 
+* Explain html tags
 
-* Add backend service
-  
-  * Test connection using ajax
+  * html
+  * head
+  * title
+  * body
+  * link
+  * script
+  * h1
