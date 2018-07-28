@@ -16,3 +16,7 @@
   * link
   * script
   * h1
+
+* Document Ready
+  * Test Jquery is working
+  * Replace welcome text index.html when document is ready 
